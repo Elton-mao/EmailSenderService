@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EmailsenderApplication<emailsender>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.emailsenderservice.emailsender.EmailsenderApplication",
+            "projectName": "emailsender",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
